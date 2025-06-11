@@ -15,11 +15,8 @@ def save_snapshot(image, folder="Snapshot"):
     # Create the output folder if it doesn't exist
     if not os.path.exists(folder):
         os.makedirs(folder)
-
-    # Generate a unique filename using current date and time
-    filename = f"sketch_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png"
+    filename = f"sketch_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png" # Generate a unique filename using current date and time
     filepath = os.path.join(folder, filename)
-
     # Save the image to disk
     cv2.imwrite(filepath, image)
     return filepath  # Return the full path of the saved image

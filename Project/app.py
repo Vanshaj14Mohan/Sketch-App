@@ -29,7 +29,6 @@ if start:
         if not ret:
             st.warning("Failed to grab frame.")
             break
-
         frame = cv2.resize(frame, (640, 480))     # Resize for consistent display
         sketch = apply_sketch_effect(frame)       # Apply the sketch effect
         sketch_bgr = cv2.cvtColor(sketch, cv2.COLOR_GRAY2BGR)# Convert sketch back to 3-channel image for side-by-side view
@@ -41,7 +40,6 @@ if start:
             st.session_state.save_requested = False
         if not st.session_state.get("Start Camera", True): # Exit the loop if the checkbox is unchecked
             break
-
     # Release the webcam and close any OpenCV windows
     cap.release()
     cv2.destroyAllWindows()
