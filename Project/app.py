@@ -23,7 +23,6 @@ if snapshot:
 if start:
     cap = cv2.VideoCapture(0)                     # Access the webcam (device 0)
     st.info("Camera started. Uncheck the box to stop.")
-
     while True:
         ret, frame = cap.read()                   # Read a frame from the webcam
         if not ret:
