@@ -90,11 +90,3 @@ The sketch effect is generated using the following steps:
 This produces a pencil-like sketch effect in real-time.
 
 ---
-
-### 📃 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like me to generate badges, sample screenshots, or GitHub-style formatting enhancements for this too!
