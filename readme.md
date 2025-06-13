@@ -88,3 +88,9 @@ The sketch effect is generated using the following steps:
 This produces a pencil-like sketch effect in real-time.
 
 ---
+
+### 💡 Future Enhancements
+1.Integrate hand gesture recognition to trigger snapshots ✌️
+2.Add filters (e.g., cartoon, oil paint)
+3.Develop a full GUI (Tkinter or Streamlit)
+4.Allow uploading and sketching from static images
