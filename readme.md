@@ -91,9 +91,11 @@ This produces a pencil-like sketch effect in real-time.
 
 ### 💡 Future Enhancements
 
-1.Integrate hand gesture recognition to trigger snapshots ✌️
-2.Add filters (e.g., cartoon, oil paint)
-3.Develop a full GUI (Tkinter or Streamlit)
-4.Allow uploading and sketching from static images
+1. Integrate hand gesture recognition to trigger snapshots ✌️
+2. Add filters (e.g., cartoon, oil paint)
+3. Develop a full GUI (Tkinter or Streamlit)
+4. Allow uploading and sketching from static images
 
-----
+This produces a pencil-like sketch effect in real-time.
+
+---
