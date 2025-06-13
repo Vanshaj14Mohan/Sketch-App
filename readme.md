@@ -96,6 +96,4 @@ This produces a pencil-like sketch effect in real-time.
 3. Develop a full GUI (Tkinter or Streamlit)
 4. Allow uploading and sketching from static images
 
-This produces a pencil-like sketch effect in real-time.
-
 ---
