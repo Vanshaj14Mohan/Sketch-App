@@ -97,3 +97,9 @@ This produces a pencil-like sketch effect in real-time.
 4. Allow uploading and sketching from static images
 
 ---
+
+## 👨‍💻 Author
+
+Developed as a part of my internship task named as **"Sketch filter app"**.
+
+```
