@@ -44,6 +44,5 @@ if start:
     cv2.destroyAllWindows()
 
 else:
-    # Message shown when camera is not active
-    st.info("✅ Click 'Start Camera' to begin.")
+    st.info("✅ Click 'Start Camera' to begin.") # Message shown when camera is not active
 
