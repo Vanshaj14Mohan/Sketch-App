@@ -39,8 +39,7 @@ if start:
             st.session_state.save_requested = False
         if not st.session_state.get("Start Camera", True): # Exit the loop if the checkbox is unchecked
             break
-    # Release the webcam and close any OpenCV windows
-    cap.release()
+    cap.release()# Release the webcam and close any OpenCV windows
     cv2.destroyAllWindows()
 
 else:
