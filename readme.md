@@ -99,6 +99,6 @@ This produces a pencil-like sketch effect in real-time.
 
 ## 👨‍💻 Author
 
-Developed as a part of my internship project named as **"Sketch Filter App"**.
+Developed as a part of my internship project named as **"Sketch Filter App"**
 
 ```
