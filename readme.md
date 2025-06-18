@@ -30,7 +30,6 @@ This is a real-time computer vision web app that applies a **pencil sketch filte
 .
 ├── app.py                # Streamlit app main file
 ├── sketch_utils.py       # Utility functions (sketch effect and snapshot saving)
-├── pramod-tiwari--...jpg # Background image
 ├── Snapshot/             # Folder where snapshots are saved
 └── README.md             # Project documentation
 ```
