@@ -59,9 +59,10 @@ This is a real-time computer vision web app that applies a **pencil sketch filte
 
 ### 🖼️ Sample Output
 
-| Original Feed              | Sketch Output              |
-| -------------------------- | -------------------------- |
-| ![Live](Project/Snapshot/Screenshot2025-06-12225113.png) | ![Sketch](Project/Snapshot/sketch_20250611_183040.png) |
+<p align="center">
+  <img src="Images/Output 1.png" width="120"/>
+  <img src="Images/Output 2.png" width="120"/>
+</p>
 
 ---
 
